@@ -1,0 +1,42 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "Dependence": 1.0,
+    "PurchaseableProducts": [
+        "pinkgold"
+    ],
+    "ProductAffinities": [
+        1.0,
+        -0.7910830974578857,
+        0.19469010829925538
+    ],
+    "TimeSinceLastDealCompleted": 417,
+    "TimeSinceLastDealOffered": 446,
+    "OfferedDeals": 4,
+    "CompletedDeals": 5,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 0,
+        "time": 0
+    },
+    "TimeSincePlayerApproached": 1036933,
+    "TimeSinceInstantDealOffered": 7782,
+    "HasBeenRecommended": false
+}

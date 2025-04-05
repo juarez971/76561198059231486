@@ -1,0 +1,32 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "Name": "Sexy Urkle",
+    "ID": "sexyurkle",
+    "DrugType": 1,
+    "Properties": [
+        "foggy",
+        "brighteyed",
+        "tropicthunder",
+        "glowie",
+        "giraffying",
+        "antigravity",
+        "cyclopean",
+        "zombifying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 207,
+            "g": 207,
+            "b": 207,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 174,
+            "g": 212,
+            "b": 156,
+            "a": 255
+        }
+    }
+}

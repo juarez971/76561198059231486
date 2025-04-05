@@ -1,0 +1,42 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "Dependence": 1.0,
+    "PurchaseableProducts": [
+        "sexyurkle"
+    ],
+    "ProductAffinities": [
+        1.0,
+        0.6600000262260437,
+        0.25999999046325686
+    ],
+    "TimeSinceLastDealCompleted": 372,
+    "TimeSinceLastDealOffered": 410,
+    "OfferedDeals": 15,
+    "CompletedDeals": 15,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 0,
+        "time": 0
+    },
+    "TimeSincePlayerApproached": 12529,
+    "TimeSinceInstantDealOffered": 7739,
+    "HasBeenRecommended": false
+}

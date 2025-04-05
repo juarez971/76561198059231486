@@ -1,0 +1,84 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 1,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 1176431892,
+            "Text": "How about 2x Pink Gold for $225?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 513210923,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -803149047,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1338955592,
+            "Text": "Great, I'll meet you <b>next to the barbershop</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1980055986,
+            "Text": "Hey, I need 2x Pink Gold. I'll pay <color=#46CB4F>$195</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1646351167,
+            "Text": "How about 2x Pink Gold for $225?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -675634450,
+            "Text": "Alright then. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1779553716,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1522503859,
+            "Text": "Great, I'll meet you <b>behind taco ticklers</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1330368811,
+            "Text": "Hey, can I get 2x Pink Gold? I'll pay <color=#46CB4F>$195</color>",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [
+        {
+            "Text": "Yes",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
+    "IsHidden": false
+}

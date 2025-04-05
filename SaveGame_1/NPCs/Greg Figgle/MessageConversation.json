@@ -1,0 +1,41 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 8,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1450265166,
+            "Text": "I NEED 1x Sexy Urkle. I GOT <color=#46CB4F>$355</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1966305929,
+            "Text": "How about 1x Sexy Urkle for $375?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 137301279,
+            "Text": "Ok whatever. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1821694987,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1481830784,
+            "Text": "Good!! I'll see u <b>behind Thrifty threads</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

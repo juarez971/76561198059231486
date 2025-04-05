@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 0,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": -1800579864,
+            "Text": "How about 1x Wedding Ass for $75?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -595131242,
+            "Text": "Arghh fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -982408625,
+            "Text": "hmmmmm FINE. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1393734652,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1881373491,
+            "Text": "Good!! I'll see u <b>behind the construction site</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -711174734,
+            "Text": "Need me 2x Pink Gold! I'll pay <color=#46CB4F>$160</color> yeah??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -470563770,
+            "Text": "How about 2x Pink Gold for $200?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -676529869,
+            "Text": "Arghh fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1284035401,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 630314465,
+            "Text": "Good!! I'll see u <b>next to the statue in the west park</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

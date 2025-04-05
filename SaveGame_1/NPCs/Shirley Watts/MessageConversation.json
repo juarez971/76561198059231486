@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 16,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 527847921,
+            "Text": "If you're in need of some pseudo, I'm your gal. Send me a message and we'll figure something out",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1629838068,
+            "Text": "I need a dead drop:\n8x Low-Quality Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -259464216,
+            "Text": "Working on it. Should be ready in around 4 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 322122306,
+            "Text": "Your drop is ready. Grab it on the pawn shop west wall",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1919510226,
+            "Text": "Just reminding you that you owe me <color=#46CB4F>$480</color>. Please deposit the amount into my stash box when you're ready.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1194033206,
+            "Text": "I've received $480 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 454236600,
+            "Text": "I need a dead drop:\n6x Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1151889473,
+            "Text": "Got it. I'll let you know when it's ready. Should be about 3 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1978436353,
+            "Text": "Hey, that drop is ready under the west bridge",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 514852267,
+            "Text": "I've received $480 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

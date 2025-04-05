@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f14",
+    "ConversationIndex": 3,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": -515283857,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2145712158,
+            "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1894647637,
+            "Text": "You got 1x Ice Cream Cheese? I'll pay <color=#46CB4F>$185</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -429056057,
+            "Text": "How about 1x Ice Cream Cheese for $225?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1410401479,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1055935934,
+            "Text": "Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 457188120,
+            "Text": "Great, I'll meet you <b>at the skatepark</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1089204690,
+            "Text": "Hey, I need 1x Sexy Urkle. I'll pay <color=#46CB4F>$345</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -2004700591,
+            "Text": "How about 1x Sexy Urkle for $435?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 615680026,
+            "Text": "No way",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

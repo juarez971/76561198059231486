@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ID": "brian_thomas",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Brian",
+    "LastName": "Thomas",
+    "IsMale": true,
+    "AppearanceIndex": 6,
+    "Position": {
+        "x": -168.97915649414063,
+        "y": -3.996145009994507,
+        "z": 111.93048858642578
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.667593240737915,
+        "z": 0.0,
+        "w": 0.744526207447052
+    },
+    "GUID": "d8632881-01e8-43b2-96ef-3ffdc994a7fa",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

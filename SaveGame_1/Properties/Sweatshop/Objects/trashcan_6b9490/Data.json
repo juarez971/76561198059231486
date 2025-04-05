@@ -1,0 +1,24 @@
+{
+    "DataType": "TrashContainerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "GUID": "6b9490db-78b6-4de8-a791-28b18a915e63",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f15\",\n    \"ID\": \"trashcan\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "46a785d3-e21e-4117-8366-ebddea345dee",
+    "OriginCoordinate": {
+        "x": 17.0,
+        "y": 11.0
+    },
+    "Rotation": 180,
+    "ContentData": {
+        "TrashIDs": [
+            "soilbag2",
+            "pgr"
+        ],
+        "TrashQuantities": [
+            1,
+            7
+        ]
+    }
+}

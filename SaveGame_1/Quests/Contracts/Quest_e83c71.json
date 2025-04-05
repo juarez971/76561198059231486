@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "GUID": "e83c7101-dfda-4b6b-ae1c-247623e615fb",
+    "State": 1,
+    "IsTracked": false,
+    "Title": "Deal for Dean",
+    "Description": "Dean has requested a delivery of 1x Sexy Urkle behind the pawn shop for $440.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 21,
+        "Time": 2400
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "Name": "1x Sexy Urkle, Behind pawn shop",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "3d4f4e03-506a-4fa9-b49c-3365802acf88",
+    "Payment": 440.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "sexyurkle",
+                "Quality": 1,
+                "Quantity": 1
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "9a9cb8f4-dc87-47de-890b-6d654deeecf9",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 1800,
+        "WindowEndTime": 2400
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 21,
+        "Time": 2050
+    }
+}

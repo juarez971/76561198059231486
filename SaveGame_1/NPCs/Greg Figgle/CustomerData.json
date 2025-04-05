@@ -1,0 +1,43 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "Dependence": 0.20000000298023225,
+    "PurchaseableProducts": [
+        "sexyurkle",
+        "pinkgold"
+    ],
+    "ProductAffinities": [
+        0.5778086185455322,
+        -0.4288087785243988,
+        -0.34890711307525637
+    ],
+    "TimeSinceLastDealCompleted": 408,
+    "TimeSinceLastDealOffered": 521,
+    "OfferedDeals": 1,
+    "CompletedDeals": 1,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 0,
+        "time": 0
+    },
+    "TimeSincePlayerApproached": 1036933,
+    "TimeSinceInstantDealOffered": 1036933,
+    "HasBeenRecommended": false
+}

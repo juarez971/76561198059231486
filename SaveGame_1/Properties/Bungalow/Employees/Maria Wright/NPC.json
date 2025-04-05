@@ -1,0 +1,30 @@
+{
+    "DataType": "CleanerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ID": "maria_wright",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Maria",
+    "LastName": "Wright",
+    "IsMale": false,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": -168.6400604248047,
+        "y": -4.0471882820129398,
+        "z": 110.67668914794922
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6941209435462952,
+        "z": 0.0,
+        "w": 0.7198584079742432
+    },
+    "GUID": "6d5f8224-7a51-4852-ace8-8b04fdd2fe35",
+    "PaidForToday": true,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

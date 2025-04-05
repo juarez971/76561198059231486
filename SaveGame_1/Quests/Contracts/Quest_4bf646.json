@@ -1,0 +1,52 @@
+{
+    "DataType": "ContractData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "GUID": "4bf646ba-2f46-4cde-bea5-76a28d67eb58",
+    "State": 1,
+    "IsTracked": true,
+    "Title": "Deal for Eugene",
+    "Description": "Eugene has requested a delivery of 4x Pink Gold in the parking garage next to the casino for $380.",
+    "Expires": true,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 22,
+        "Time": 1200
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f15",
+            "Name": "4x Pink Gold, Next to parking garage",
+            "State": 1
+        }
+    ],
+    "CustomerGUID": "4a353a06-75b9-4e28-837f-43c484d2c868",
+    "Payment": 380.0,
+    "ProductList": {
+        "entries": [
+            {
+                "ProductID": "pinkgold",
+                "Quality": 2,
+                "Quantity": 4
+            }
+        ]
+    },
+    "DeliveryLocationGUID": "84e64355-61b5-4054-a9e1-f562b95e429e",
+    "DeliveryWindow": {
+        "IsEnabled": true,
+        "WindowStartTime": 600,
+        "WindowEndTime": 1200
+    },
+    "PickupScheduleIndex": 0,
+    "AcceptTime": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f15",
+        "ElapsedDays": 21,
+        "Time": 1523
+    }
+}

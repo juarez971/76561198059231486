@@ -1,0 +1,38 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "Name": "Purple Cheese",
+    "ID": "purplecheese",
+    "DrugType": 0,
+    "Properties": [
+        "balding",
+        "antigravity"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 139,
+            "g": 120,
+            "b": 61,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 118,
+            "g": 118,
+            "b": 127,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 128,
+            "g": 119,
+            "b": 94,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 111,
+            "g": 96,
+            "b": 48,
+            "a": 255
+        }
+    }
+}
